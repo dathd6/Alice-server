@@ -1,1 +1,1 @@
-MAD Server
+Alice Server
